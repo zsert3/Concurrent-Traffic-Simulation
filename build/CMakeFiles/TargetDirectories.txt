@@ -1,0 +1,3 @@
+/home/code/projects/multi_threading/Concurrent-Traffic-Simulation/build/CMakeFiles/rebuild_cache.dir
+/home/code/projects/multi_threading/Concurrent-Traffic-Simulation/build/CMakeFiles/edit_cache.dir
+/home/code/projects/multi_threading/Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir
