@@ -80,7 +80,7 @@ void TrafficLight::cycleThroughPhases()
         
         std::mt19937 rng(time(NULL));
         std::uniform_int_distribution<int> gen(4000, 6000); // uniform, unbiased
-
+        
         int randomTime = gen(rng);
 
         // the -1 is added to take into account the millisecond this while loop always sleeps,
